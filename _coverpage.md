@@ -10,7 +10,7 @@
 - No statically built html files
 - Multiple themes
 
-[Visit Microsoft's AppSource](https://github.com/QingWei-Li/docsify/)
+[Visit Microsoft's AppSource](https://appsource.microsoft.com/en-us/)
 [Get Started](/?id=introduction)
 
 <!-- background color -->

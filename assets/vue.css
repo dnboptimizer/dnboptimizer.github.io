@@ -826,3 +826,8 @@ pre:after {
     text-align: right;
     top: 0
 }
+
+.app-sub-sidebar .section-link:before {
+    content: none;
+    padding-right: 4px;
+}

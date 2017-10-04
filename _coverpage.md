@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
+<img src="/assets/logo.png" width="240">
 
 # D&B Optimizer <small>for Microsoft</small>
 
@@ -11,7 +11,7 @@
 - Multiple themes
 
 [Visit Microsoft's AppSource](https://github.com/QingWei-Li/docsify/)
-[Get Started](/?id=dampb-optimizer-for-microsoft)
+[Get Started](/?id=introduction)
 
 <!-- background color -->
-![color](#fff)
+![color](#F1F6F8)

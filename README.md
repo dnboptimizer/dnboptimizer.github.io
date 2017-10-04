@@ -1,4 +1,4 @@
-# D&B Optimizer for Microsoft
+# Introduction
 
 > A magical documentation site generator.
 

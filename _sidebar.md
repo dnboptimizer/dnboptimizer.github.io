@@ -11,10 +11,17 @@
   - [Custom navbar](custom-navbar.md)
   - [Cover page](cover.md)
 
+- Use cases
+  - [Onboarding](uc/onboarding.md)
+  - [Account create & update](uc/accounts.md)
+  - [Data refresh](uc/refresh.md)
+
 - The Microsoft ecosystem
   - [The Common Data Service](ecosystem/cds.md)
+  - [Dynamics365 for Sales](ecosystem/d365.md)
   - [PowerApps](ecosystem/powerapps.md)
   - [Microsoft Flow](ecosystem/flow.md)
+  - [PowerBI](ecosystem/p[owerbi.md])
 
 - Customization
   - [Configuration](configuration.md)

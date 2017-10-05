@@ -1,20 +1,19 @@
 - Introduction
-  - [What is it?](README?id=what-is-it)
-  - [Features](README?id=features)
-  - [Getting support](README?id=getting-support)
+  - [What is it?](what-is-it.md)
+  - [Features](features.md)
+  - [Getting support](support.md)
 
 - Getting started
   - [Checklist](checklist.md)
   - [Licensing & Subscriptions](licensing.md)
   - [Quick start](quickstart.md)
-  - [Writing more pages](more-pages.md)
-  - [Custom navbar](custom-navbar.md)
-  - [Cover page](cover.md)
 
 - Use cases
   - [Onboarding](uc/onboarding.md)
-  - [Account create & update](uc/accounts.md)
+  - [Match & append](uc/match-append.md)
   - [Data refresh](uc/refresh.md)
+  - [Quality reporting](uc/quality-reporting.md)
+  - [Intelligence reporting](uc/intelligence-reporting.md)
 
 - The Microsoft ecosystem
   - [The Common Data Service](ecosystem/cds.md)
@@ -30,13 +29,3 @@
   - [Write a Plugin](write-a-plugin.md)
   - [Markdown configuration](markdown.md)
   - [Language highlighting](language-highlight.md)
-
-- Guide
-  - [Deploy](deploy.md)
-  - [Helpers](helpers.md)
-  - [Vue compatibility](vue.md)
-  - [CDN](cdn.md)
-  - [Offline Mode(PWA)](pwa.md)
-  - [Server-client renderer(SSR)](ssr.md)
-
-- [Changelog](changelog.md)

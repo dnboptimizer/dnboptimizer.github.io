@@ -1,17 +1,15 @@
 <!-- _coverpage.md -->
 
-<img src="/assets/logo.png" width="300">
+<img src="/assets/logo.png" width="360" style="margin: 0 0 40px 0">
 
-# D&B Optimizer <small>for Microsoft</small>
-
-> A cool, brief tagline here will go a long way.
+> A catchy, brief tagline here would work well.
 
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 <br><br>
 
 [Visit Microsoft's AppSource](https://appsource.microsoft.com/en-us/)
-[Get Started](/?id=introduction)
+[Get Started](?id=dnb-optimizer-for-microsoft)
 
 <!-- background color -->
 ![color](#F1F6F8)

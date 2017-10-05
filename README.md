@@ -1,22 +1,5 @@
 <br id="dnb-optimizer-for-microsoft">
 
-
-<input v-model="message" placeholder="edit me">
-<p>Message is: {{ message }}</p>
-
-<script>
-  new Vue({
-    el: '#main',
-    data () {
-      return {
-        message: 'msg'
-      }
-    }
-  })
-</script>
-
-<br>
-
 # D&B Optimizer for Microsoft
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

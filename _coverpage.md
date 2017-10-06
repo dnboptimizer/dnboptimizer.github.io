@@ -5,7 +5,7 @@
 > A catchy, brief tagline here would work well.
 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+D&B Optimizer for Microsoft is a foundational data service from Dun & Bradstreet that improves the quality of your business data by correctly identifying, cleansing, and inserting firmographic intelligence into records within your Microsoft application environment.
 <br><br>
 
 [Visit Microsoft's AppSource](https://appsource.microsoft.com/en-us/)

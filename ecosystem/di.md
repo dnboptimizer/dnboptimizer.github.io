@@ -29,3 +29,6 @@ To setup a data integration project in PowerApps follow the instructions below.
 3. Select the scheduling tab.
   1. Set to recur every 5 minutes.
   2. Click "Save schedule".
+
+## Known Issues
+1. If your records in Dynamics 365 have an invalid Country/Region you will get an invalidEnums error on the mailingpostaladdress_country source field during the DI sync.

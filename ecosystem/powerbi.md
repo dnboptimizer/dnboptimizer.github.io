@@ -34,3 +34,14 @@ If your database is active you will see "Your database is currently visible to P
 ## Power BI Web
 1. Sign in to [Power BI](https://powerbi.microsoft.com).
 2. Select the workspace you published the report too, select the Reports tab and select the report.
+3. Click the pin icon on the top right corner to Pin to dashboard, select a dashboard and click Pin.
+
+<b>Note: You must put the report in a dashboard to embed it into a dynamics 365 dashboard.</b>
+ 
+## Dynamics 365 Reports
+1. Sign in to Dynamics 365.
+2. Select Settings > Administration > System Settings, select the Reporting tab.
+3. Set the Allow Power BI visualization embedding to Yes and click OK.
+4. Select Sales > Dashboards.
+5. Select NEW > Power BI Dashboard.
+6. Your Power BI Dashboard should be available in the Dashboard drop down, select it and click Save.

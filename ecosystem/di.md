@@ -6,7 +6,7 @@ For more information see [Microsoft's introduction to Data Integration](https://
 Before you can work with a Data Integration project, you must provision a connection for each system that you intend to work with in the Microsoft PowerApps portal. You then reference those connections in a Data Integration project. 
 
 1. From the PowerApps [website](https://web.powerapps.com) click on settings and select the "Admin center" menu item.
-2. Then select the "Data integration" tab.
+2. Then select the Data integration tab.
 
 ## Connection sets
 Connection sets are a collection of two more connections, organization mapping information, and integration keys that can be reused among projects.

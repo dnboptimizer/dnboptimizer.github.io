@@ -14,4 +14,4 @@ See the [Quick start](quickstart.md) for more details.
 
 ## Getting support
 
-[D&B Support](https://support.dnb.com/)
+[D&B Support](https://support.dnb.com/).

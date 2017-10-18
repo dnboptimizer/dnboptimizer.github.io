@@ -6,7 +6,6 @@
 - Getting started
   - [Checklist](checklist.md)
   - [Licensing & Subscriptions](licensing.md)
-  - [Quick start](quickstart.md)
 
 - Use cases
   - [Onboarding](uc/onboarding.md)
@@ -20,5 +19,4 @@
   - [Dynamics365 for Sales](ecosystem/d365.md)
   - [Data Integration](ecosystem/di.md)
   - [PowerApps](ecosystem/powerapps.md)
-  - [Microsoft Flow](ecosystem/flow.md)
-  - [PowerBI](ecosystem/p[owerbi.md])
+  - [Power BI](ecosystem/powerbi.md)

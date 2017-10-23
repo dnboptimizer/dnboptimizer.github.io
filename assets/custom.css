@@ -1,0 +1,8 @@
+section.cover .cover-main>p:last-child a:last-child:hover {
+    color: white !important;
+    opacity: .8;
+}
+
+section.cover p {
+  padding: 0 20%;
+}

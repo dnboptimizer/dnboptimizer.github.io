@@ -5,3 +5,4 @@ D&B Optimizer for Microsoft is a foundational data service from Dun & Bradstreet
 Embedded in the heart of the Microsoft Common Data Service (CDS), D&B Optimizer for Microsoft serves as the foundational building block that links core business intelligence to additional insights, analytics, and data analysis capabilities provided by Dun & Bradstreet, or other third party data providers, giving customers a wealth of options to leverage data in new ways across their Microsoft stack. By combining Dun & Bradstreet&#39;s trusted data with Microsoft&#39;s CDS and Dynamics 365 platform, customers will now be able to leverage real-time, actionable data to help make critical business decisions.
 
 ![System overview](assets/DnBOptimizerForMS.png "System overview")
+

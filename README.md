@@ -10,8 +10,8 @@ Embedded in the heart of the Microsoft Common Data Service (CDS), D&B Optimizer 
 
 !> Compressed files are available in `/assets/download.zip`.
 
-See the [Quick start](quickstart.md) for more details.
+See the [checklist](checklist.md) for more details.
 
 ## Getting support
 
-[D&B Support](https://support.dnb.com/)
+[D&B Support](https://support.dnb.com/).

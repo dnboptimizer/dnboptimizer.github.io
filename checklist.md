@@ -5,3 +5,7 @@
 3. Update your Common Data Service environment. See [The Common Data Service](ecosystem/cds.md).
 4. Update your Data Integrator. See [Data Integration](ecosystem/di.md).
 5. Select the D&B Optimizer for Microsoft connector, choose a template and configurate with your security details. See [PowerApps](ecosystem/powerapps.md).
+
+## Downloads
+
+!> Compressed files are available in `/assets/download.zip`.

@@ -1,8 +1,6 @@
-- Introduction
-  - [What is it?](what-is-it.md)
-  - [Features](features.md)
-  - [Getting support](support.md)
-
+- D&B optimizer for Microsoft
+  - [Introduction](intro.md)
+  
 - Getting started
   - [Checklist](checklist.md)
   - [Licensing & Subscriptions](licensing.md)

@@ -5,7 +5,7 @@ For more information see [Microsoft's introduction to Data Integration](https://
 
 Before you can work with a Data Integration project, you must provision a connection for each system that you intend to work with in the Microsoft PowerApps portal. You then reference those connections in a Data Integration project.
 
-1. From the PowerApps [website](https://web.powerapps.com) click on settings and select the "Admin center" menu item.
+1. From the PowerApps [website](https://web.powerapps.com) click on settings and select the "Admin center" menu item. ![logo](assets/settings_cog.png "Settings")
 2. Then select the Data integration tab.
 
 ## Connection Sets
@@ -26,7 +26,7 @@ Projects enable the flow of data between systems.
 1. Click "New project" and fill in the details.
 2. Give the project a name.
 3. Select the "Accounts (Sale to CDS)" template and click next.
-4. Select a Connection set and click next.
+4. Choose Connection sets and click next.
 4. Select an Organization and click next.
 5. Read the privacy notice and consent and click create.
 
@@ -39,7 +39,7 @@ Now everything is setup we can run or schedule the Project.
   1. Leave as Run manually and click the Run project icon in the top right corner.
   2. Or select Recur every and pick your settings and click the "Save schedule".
   
-<b>Note: We recommend scheduling the project the recur every ???</b> 
+<b>Note: We recommend scheduling the project to recur every 30 mins.</b>
 
 ## Known Issues
 1. If your records in Dynamics 365 have an invalid Country/Region you will get an invalidEnums error on the mailingpostaladdress_country source field during the DI sync.

@@ -19,5 +19,7 @@ D&B Optimizer for Microsoft helps customers:
 * Analyze their business and market opportunities more accurately by continuously ensuring their entity data is accurate and actionable
 * Expedite time-to-value for new technology platforms, such as CRM or ERP, by pre-populating them with mastered business intelligence
 
+Learn more about the value D&B Optimizer for Microsoft can bring to your organization and sign up for a free, personalized demo [here](http://www.dnb.com/products/marketing-sales/dnb-optimizer-for-microsoft-cds.html).
+
 ## Getting Support
-Coming soon
+For technical help regarding D&B Optimizer for Microsoft please [contact us](http://www.dnb.com/utility-pages/customer-service.html).

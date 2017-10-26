@@ -41,6 +41,3 @@ Now everything is setup we can run or schedule the Project.
   2. Or select Recur every and pick your settings and click the "Save schedule".
   
 <b>Note: We recommend scheduling the project to recur every 30 mins.</b>
-
-## Known Issues
-1. If your records in Dynamics 365 have an invalid Country/Region you will get an invalidEnums error on the mailingpostaladdress_country source field during the DI sync.

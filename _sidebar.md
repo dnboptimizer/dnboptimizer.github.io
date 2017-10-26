@@ -1,4 +1,4 @@
-- D&B optimizer for Microsoft
+- D&B Optimizer for Microsoft
   - [Introduction](intro.md)
   
 - Getting started

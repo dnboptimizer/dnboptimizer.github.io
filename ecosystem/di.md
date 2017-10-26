@@ -7,6 +7,7 @@ Before you can work with a Data Integration project, you must provision a connec
 
 1. From the PowerApps [website](https://web.powerapps.com) click on settings and select the "Admin center" menu item. ![logo](assets/settings_cog.png "Settings")
 2. Then select the Data integration tab.
+3. Choose Connection sets.
 
 ## Connection Sets
 Connection sets are a collection of two more connections, organization mapping information, and integration keys that can be reused among projects.
@@ -26,7 +27,7 @@ Projects enable the flow of data between systems.
 1. Click "New project" and fill in the details.
 2. Give the project a name.
 3. Select the "Accounts (Sale to CDS)" template and click next.
-4. Choose Connection sets and click next.
+4. Select Connection sets and click next.
 4. Select an Organization and click next.
 5. Read the privacy notice and consent and click create.
 

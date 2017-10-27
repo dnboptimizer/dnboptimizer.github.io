@@ -31,13 +31,22 @@ Projects enable the flow of data between systems.
 4. Select an Organization and click next.
 5. Read the privacy notice and consent and click create.
 
-## Run/Schedule Project
-Now everything is setup we can run or schedule the Project.
+## Run Project
+Now everything is setup we can run the project.
+
+1. Go back to Projects.
+2. Select a Project from the list.
+3. Click "Run project" in the top right corner.
+
+<b>Note: You must run the project once before you setup the scheduler.</b>
+
+## Schedule Project
+Now everything is setup we can schedule the Project.
 
 1. Go back to Projects.
 2. Select a Project from the list.
 3. Select the Scheduling tab.
   1. Leave as Run manually and click the Run project icon in the top right corner.
   2. Or select Recur every and pick your settings and click the "Save schedule".
-  
+
 <b>Note: We recommend scheduling the project to recur every 30 mins.</b>

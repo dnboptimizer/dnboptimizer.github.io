@@ -11,3 +11,5 @@ For more information see [Run flows on a schedule](https://flow.microsoft.com/en
 
 ## Flow Template
 The D&B Optimizer for Microsoft comes with a template that we recommend you use in your environment to get the maximum benefit from the solution.
+
+**Note: You must run or schedule the Data Integration project to run at least once before you create a template. See [Data Integration](ecosystem/di.md).**

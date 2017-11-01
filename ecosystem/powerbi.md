@@ -3,7 +3,12 @@
 To setup a Power BI reports follow the instructions below.  
 For more information see [Power BI](https://powerbi.microsoft.com/en-us/).
 
-<b>Note: Power BI/Common Data Service integration is only support in the US.</b>
+**Note: Power BI/Common Data Service integration is only support in the US.**
+
+## Activate Power BI
+Request activation of Power BI in your tenant: [aka.ms/cdspowerbi](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRwWp5miMBjRAhmGSAULZVM5URVBXNE01M1NSUVFDWlpQVUhNNzQ0MUdINi4u)
+
+**Note: This may take several hours or into the next business day.**
 
 ## Enable Database
 1. From the PowerApps [website](https://web.powerapps.com) click on settings and select the "Admin center" menu item.

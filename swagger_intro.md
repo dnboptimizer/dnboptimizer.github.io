@@ -1,0 +1,2 @@
+
+D&B Optimizer requires users to have access to a Common Data Service environment and an active subscription for Dun & Bradstreet services. Find more information [here](http://www.dnb.com/products/marketing-sales/dnb-optimizer-for-microsoft-cds.html), and how to get started [here](http://optimizer.documentation.dnb.com).

@@ -6,8 +6,3 @@
 4. Update your Dynamics 365 environment. See [Dynamics 365 for Sales](ecosystem/d365.md).
 5. Update your Data Integrator. See [Data Integration](ecosystem/di.md).
 6. Select the D&B Optimizer for Microsoft connector, choose a template and configure with your security details. See [PowerApps](ecosystem/powerapps.md).
-
-
-## Downloads
-
-!> Compressed files are available in `/assets/download.zip`.

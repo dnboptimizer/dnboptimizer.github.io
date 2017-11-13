@@ -16,7 +16,7 @@ Request activation of Power BI in your tenant: [aka.ms/cdspowerbi](https://forms
 3. Select the environment you want to enable Power BI reporting in.
 4. Select the Database tab.
 
-If your database is active you will see "Your database is currently visible to Power BI users." If your database is not active click the Active button.
+**Note: If your database is active you will see "Your database is currently visible to Power BI users." If your database is not active click the Active button.**
 
 ## Create Perspectives
 1. From the PowerApps [website](https://web.powerapps.com) click on Common Data Service.
@@ -25,12 +25,10 @@ If your database is active you will see "Your database is currently visible to P
 
 ## Power BI Desktop
 1. Download the Power UI Desktop application [here](https://powerbi.microsoft.com/en-us/desktop/).
-2. Launch the app and create a new report.
-3. Select Home > Get Data and from the list select Common Data Service (Beta) and click Connect.
-4. Click Sign in, enter details and click Connect.
-5. Select an Environment from the list and click OK.
-6. Select the Business Profile Perspective from the list and click OK.
-7. Create a report and save.
+2. Download the <a href="/assets/dnb_Optimizer_1_0_0_0_powerbi.pbit" download>D&B Template</a>. 
+3. Launch the Power UI Desktop application, import the D&B template and sign in.
+4. Select Home > Edit Queries > Data source settings, select your CDS environment and from the list select the BusinessProfile perspective.
+5. The report should now popular with the data from your CDS Business Profile entity.
 
 ## Publish Report
 1. Select Home > Publish and sign in.
@@ -41,7 +39,7 @@ If your database is active you will see "Your database is currently visible to P
 2. Select the workspace you published the report too, select the Reports tab and select the report.
 3. Click the pin icon on the top right corner to Pin to dashboard, select a dashboard and click Pin.
 
-<b>Note: You must put the report in a dashboard to embed it into a dynamics 365 dashboard.</b>
+**Note: You must put the report in a dashboard to embed it into a dynamics 365 dashboard.**
  
 ## Dynamics 365 Reports
 1. Sign in to Dynamics 365.

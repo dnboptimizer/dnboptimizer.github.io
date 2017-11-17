@@ -41,4 +41,4 @@ Now everything is setup we can run/schedule the project.
   2. Or select Recur every and pick your settings and click the "Save schedule".
   
 **Note: You must run or schedule the project to run at least once before you create a template.**  
-**Note: We recommend scheduling the project to recur every 30 minutes.**
+**Note: We recommend scheduling the project to recur every 5 minutes.**

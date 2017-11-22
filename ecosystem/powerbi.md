@@ -28,7 +28,7 @@ Request activation of Power BI in your tenant: [aka.ms/cdspowerbi](https://forms
 2. Download the <a href="/assets/dnb_Optimizer_1_0_0_0_powerbi.pbit" download>D&B Template</a>. 
 3. Launch the Power UI Desktop application, import the D&B template and sign in.
 4. Select Home > Edit Queries > Data source settings, select your CDS environment and from the list select the BusinessProfile perspective.
-5. The report should now popular with the data from your CDS Business Profile entity.
+5. The report should now populate with the data from your CDS Business Profile entity.
 
 ## Publish Report
 1. Select Home > Publish and sign in.

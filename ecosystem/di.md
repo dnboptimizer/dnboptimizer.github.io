@@ -12,7 +12,7 @@ Before you can work with a Data Integration project, you must provision a connec
 ## Connection Sets
 Connection sets are a collection of two more connections, organization mapping information, and integration keys that can be reused among projects.
 
-1. Click "New connection set" and fill in the details. 
+1. Click the "Add connection set" link or the "New connection set" button and fill in the details. 
   1. Give the Connection set a name.
   2. Select a Connection & Environment for Dynamics 365.
   3. Select a Connection & Environment for Common Data Service.

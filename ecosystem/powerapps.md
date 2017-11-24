@@ -10,6 +10,6 @@ The D&B Optimizer for Microsoft trigger is based on a scheduler. By default the 
 For more information see [Run flows on a schedule](https://flow.microsoft.com/en-us/documentation/run-tasks-on-a-schedule/).
 
 ## Flow Template
-The D&B Optimizer for Microsoft comes with a template that we recommend you use in your environment to get the maximum benefit from the solution.
+The D&B Optimizer for Microsoft comes with two templates, one to inserting firmographic intelligence into your records and one to keep that data up to date. We recommend you use both in your environment to get the maximum benefit from the solution.
 
 **Note: You must run or schedule the Data Integration project to run at least once before you create a template. See [Data Integration](ecosystem/di.md).**

@@ -12,4 +12,10 @@ For more information see [Run flows on a schedule](https://flow.microsoft.com/en
 ## Flow Template
 The D&B Optimizer for Microsoft comes with two templates, one to inserting firmographic intelligence into your records and one to keep that data up to date. We recommend you use both in your environment to get the maximum benefit from the solution.
 
+**<u>Dynamics for Sales Integration with D&B and CDS</u>**  
+After you have setup and run the [data integration](ecosystem/di.md), save this template. This flow template will run every five minutes, search for new or updated records and insert firmographic intelligence into your records within your Microsoft application environment.
+
+**<u>Dynamics for Sales Integration with D&B and CDS - Refresh</u>**  
+This flow template will run every hour, search for Business Profile records older that fourteen days and update the records with the latest D&B firmographic data.
+
 **Note: You must run or schedule the Data Integration project to run at least once before you create a template. See [Data Integration](ecosystem/di.md).**

@@ -17,9 +17,11 @@ Connection sets are a collection of two more connections, organization mapping i
   2. Select a Connection & Environment for Dynamics 365.
   3. Select a Connection & Environment for Common Data Service.
   4. Organizations:
-    1. Enter your Organization for Dynamics 365 for Sales.
-    2. Enter your Organization for Common Data Service.
+    1. Enter your Organization for Dynamics 365 for Sales. (Which you can get from your Dynamics 365 domain).
+    2. Enter your Organization for Common Data Service. (Which you can get from the Organization entity in CDS select the Data tab and scroll to the ORGANISATION ID column)
 2. Click "Create".
+
+** Note: While you are free to choose any name you like we suggest something like D365_Sales_Accs_to_CDS_Sales_Accs so you can see from the name which data the connection set represents. **
 
 ## Projects
 Projects enable the flow of data between systems.

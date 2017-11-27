@@ -9,8 +9,8 @@ The D&B Optimizer for Microsoft connector provides a way for users to connect to
 The D&B Optimizer for Microsoft trigger is based on a scheduler. By default the flow will recur every 5 minutes.  
 For more information see [Run flows on a schedule](https://flow.microsoft.com/en-us/documentation/run-tasks-on-a-schedule/).
 
-## Flow Template
-The D&B Optimizer for Microsoft comes with two templates, one to inserting firmographic intelligence into your records and one to keep that data up to date. We recommend you use both in your environment to get the maximum benefit from the solution.
+## Flow Templates
+The D&B Optimizer for Microsoft comes with two templates, one to match and insert firmographic intelligence into your records and one to keep that data up to date. We recommend you use both in your environment to get the maximum benefit from the solution.
 
 **<u>Dynamics for Sales Integration with D&B and CDS</u>**  
 After you have setup and run the [data integration](ecosystem/di.md), save this template. This flow template will run every five minutes, search for new or updated records and insert firmographic intelligence into your records within your Microsoft application environment.

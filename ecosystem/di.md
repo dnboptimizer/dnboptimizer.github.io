@@ -9,6 +9,8 @@ Before you can work with a Data Integration project, you must provision a connec
 2. Then select the Data integration tab.
 3. Choose Connection sets.
 
+**Note: Before you create a connection set you need to create a Connection to Dynamics 365. To do this go to Powerapps, select your environment from the environments drop-down, click the "Connections" tab on the left and click the "New connection" button on the top right. From the list of connections select the Dynamics 365 connection and click the "Create" button.**
+
 ## Connection Sets
 Connection sets are a collection of two more connections, organization mapping information, and integration keys that can be reused among projects.
 
@@ -21,7 +23,7 @@ Connection sets are a collection of two more connections, organization mapping i
     2. Enter your Organization for Common Data Service. (Which you can get from the Organization entity in CDS; select the Data tab and scroll to the ORGANIZATION ID column)
 2. Click "Create".
 
-** Note: While you are free to choose any name you like we suggest something like D365_Sales_Accs_to_CDS_Sales_Accs so you can see from the name which data the connection set represents. **
+**Note: While you are free to choose any name you like we suggest something like D365SalesAccstoCDSSalesAccs so you can see from the name which data the connection set represents.**
 
 ## Projects
 Projects enable the flow of data between systems.

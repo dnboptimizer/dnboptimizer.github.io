@@ -11,7 +11,7 @@ To create a Common Data Service database in an environment and understand entiti
 
 The Business Profile entity will be used to store the firmographic information retrieved from Dun & Bradstreet. The Business Profile entities should **not** be edited to avoid any unforeseen side effects.
 
-**Note: Once the Data Integration project is setup the Accounts entity will be read only. If there is data in the Accounts entity we recommend you delete it first. See [Manage data in Excel](https://docs.microsoft.com/en-us/powerapps/data-platform-interactive-excel)**
+**Note: Once the Data Integration project is set up the Accounts entity will be read-only. If there is data in the Accounts entity we recommend you delete it first. See [Manage data in Excel](https://docs.microsoft.com/en-us/powerapps/data-platform-interactive-excel)**
 
 **Note: Do not delete the records in the Organizations entity as the flows use them. Deleting them will cause the flows to stop working.**
 

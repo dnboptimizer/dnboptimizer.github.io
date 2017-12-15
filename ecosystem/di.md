@@ -1,6 +1,6 @@
 # Data Integration
 
-To setup a data integration project in PowerApps follow the instructions below.
+To set up a data integration project in PowerApps follow the instructions below.
 For more information see [Microsoft's introduction to Data Integration](https://docs.microsoft.com/en-us/dynamics365/unified-operations/dev-itpro/data-entities/data-integration-cds). You then reference those connections in a Data Integration project.
 
 Before you can work with a Data Integration project, you must provision a connection for each system that you intend to work with in the Microsoft PowerApps portal. You then reference those connections in a Data Integration project.

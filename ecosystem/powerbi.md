@@ -18,11 +18,6 @@ Request activation of Power BI in your tenant: [aka.ms/cdspowerbi](https://forms
 
 **Note: If your database is active you will see "Your database is currently visible to Power BI users." If your database is not active click the Active button.**
 
-## Create Perspectives
-1. From the PowerApps [website](https://web.powerapps.com) click on Common Data Service.
-2. Select Perspectives.
-3. Select New perspective and fill in the details for Business Profile.
-
 ## Power BI Desktop
 1. Download the Power UI Desktop application [here](https://powerbi.microsoft.com/en-us/desktop/).
 2. Download the <a href="/assets/dnb_Optimizer_1_0_0_0_powerbi.pbit" download>D&B Template</a>. 
@@ -37,7 +32,8 @@ Request activation of Power BI in your tenant: [aka.ms/cdspowerbi](https://forms
 ## Power BI Web
 1. Sign in to [Power BI](https://powerbi.microsoft.com).
 2. Select the workspace you published the report too, select the Reports tab and select the report.
-3. Click the pin icon on the top right corner to Pin to dashboard, select a dashboard and click Pin.
+3. Mouse over the tiles on the report and you will see a Pin icon on the top right corner. For each tile click that Pin icon to pin to a dashboard.
+4. Select a dashboard from the drop down or create a new dashboard and click Pin.
 
 **Note: You must put the report in a dashboard to embed it into a dynamics 365 dashboard.**
  

@@ -2,6 +2,7 @@
   - [Introduction](intro.md)
   
 - Getting Started
+  - [Licensing](licensing.md)
   - [Checklist](checklist.md)
 
 <!--

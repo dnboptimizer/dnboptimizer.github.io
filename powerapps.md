@@ -19,10 +19,22 @@ The D&B Optimizer for Microsoft comes with two templates, one to match and inser
 This flow template will run every five minutes, search for new or updated records and insert firmographic intelligence into your records within your Microsoft application environment.
 
 When you try to save the template you will see errors on four of the steps in the flow. These errors are because the flow doesn't know which Dynamics 365 environment to point to. To fix the errors go to the steps (listed below) and from the drop-down select your Dynamics 365 environment. Then click "Save flow" at the bottom of the page or "Update flow" at the top of the page.
-* Get Corresponding Dynamics Account
-* Get Business Profile for Account
+
+* Check Running Status
+* Delete Optimizer Status
+* Create Optimizer Status
+* Get Last Matched Account Timestamp
+* List Records
+* Find Oldest Account
+* Create Watermark from Now
+* Create Watermark from Oldest Account
 * Update Dynamics Business Profile
-* Create Dynamics Business Profile
+* Create Dynamics Business ProfileLink Account to Business Profile
+* Update Match Grade
+* Create Dynamics Match GradeLink Match Grade to Account
+* Move Matched Watermark
+* Refresh Optimizer Status
+* Delete A Record
 
 **<u>Dynamics for Sales Integration with D&B - Refresh</u>**  
 This flow template will run every hour, search for Business Profile records older than fourteen days and update the records with the latest D&B firmographic data.

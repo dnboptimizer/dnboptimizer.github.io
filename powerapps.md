@@ -29,9 +29,11 @@ When you try to save the template you will see errors on four of the steps in th
 * Create Watermark from Now
 * Create Watermark from Oldest Account
 * Update Dynamics Business Profile
-* Create Dynamics Business ProfileLink Account to Business Profile
+* Create Dynamics Business Profile
+* Link Account to Business Profile
 * Update Match Grade
-* Create Dynamics Match GradeLink Match Grade to Account
+* Create Dynamics Match Grade
+* Link Match Grade to Account
 * Move Matched Watermark
 * Refresh Optimizer Status
 * Delete A Record

@@ -5,6 +5,11 @@
   - [Licensing](licensing.md)
   - [Checklist](checklist.md)
 
+- The Microsoft Ecosystem
+  - [Dynamics 365 for Sales](d365.md)
+  - [PowerApps](powerapps.md)
+  - [Power BI](powerbi.md)
+
 <!--
 - The Microsoft ecosystem
   - [The Common Data Service](ecosystem/cds.md)
@@ -13,8 +18,3 @@
   - [PowerApps](ecosystem/powerapps.md)
   - [Power BI](ecosystem/powerbi.md)
 -->
-
-- The Microsoft Ecosystem
-  - [Dynamics 365 for Sales](d365.md)
-  - [PowerApps](powerapps.md)
-  - [Power BI](powerbi.md)

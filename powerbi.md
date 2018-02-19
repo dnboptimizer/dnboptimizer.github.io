@@ -25,3 +25,12 @@ Request activation of Power BI in your tenant: [aka.ms/cdspowerbi](https://forms
 3. Click the pin icon on the top right corner to Pin to dashboard, select a dashboard and click Pin.
 
 **Note: You must put the report in a dashboard to embed it into a dynamics 365 dashboard.**
+
+## Share Power BI Workspace
+1. Select the workspace you created the dashboard in.
+2. Click the ellipsis in the top right corner.
+3. Select "Edit workspace".
+4. Add the email addresses of the member you want to share the report with.
+5. Click Save.
+
+** Note: See [Dynamics](d365.md) section to view the Power BI report in Dynamics. **

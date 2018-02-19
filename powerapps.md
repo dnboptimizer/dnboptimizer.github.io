@@ -40,3 +40,8 @@ When you try to save the template you will see errors on four of the steps in th
 
 **<u>Dynamics for Sales Integration with D&B - Refresh</u>**  
 This flow template will run every hour, search for Business Profile records older than fourteen days and update the records with the latest D&B firmographic data.
+
+When you try to save the template you will see errors on four of the steps in the flow. These errors are because the flow doesn't know which Dynamics 365 environment to point to. To fix the errors go to the steps (listed below) and from the drop-down select your Dynamics 365 environment. Then click "Save flow" at the bottom of the page or "Update flow" at the top of the page.
+
+* List Records
+* Update Dynamics Business Profile

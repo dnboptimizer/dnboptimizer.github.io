@@ -22,4 +22,4 @@ D&B Optimizer for Microsoft helps customers:
 Learn more about the value D&B Optimizer for Microsoft can bring to your organization and sign up for a free, personalized demo [here](http://www.dnb.com/products/marketing-sales/dnb-optimizer-for-microsoft-cds.html).
 
 ## Getting Support
-For technical help regarding D&B Optimizer for Microsoft please [contact us](http://www.dnb.com/utility-pages/customer-service.html).
+For technical help regarding D&B Optimizer for Microsoft please [contact us](http://support.dnb.com).

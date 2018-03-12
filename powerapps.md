@@ -14,7 +14,7 @@ The D&B Optimizer for Microsoft comes with two templates, one to match and inser
 **<u>Dynamics for Sales Integration with D&B</u>**  
 This flow template will run every five minutes, search for new or updated records and insert firmographic intelligence into your records within your Microsoft application environment.
 
-When you try to save the template you will see errors on four of the steps in the flow. These errors are because the flow doesn't know which Dynamics 365 environment to point to. To fix the errors go to the steps (listed below) and from the drop-down select your Dynamics 365 environment. Then click "Save flow" at the bottom of the page or "Update flow" at the top of the page.
+When you try to save the template you will see errors on 17 of the steps in the flow. These errors are because the flow doesn't know which Dynamics 365 environment to point to. To fix the errors go to the steps (listed below) and from the drop-down select your Dynamics 365 environment. Then click "Save flow" at the bottom of the page or "Update flow" at the top of the page.
 
 * Check Running Status
 * Delete Optimizer Status

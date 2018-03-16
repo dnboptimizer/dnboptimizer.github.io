@@ -7,7 +7,7 @@ For more information see [Power BI](https://powerbi.microsoft.com/en-us/).
 1. Download the Power UI Desktop application [here](https://powerbi.microsoft.com/en-us/desktop/).
 2. Download the <a href="/assets/dnb_Optimizer_1_1_0_0_powerbi.pbit" download>D&B Template</a>. 
 3. Launch the Power UI Desktop application, import the D&B template, select cancel and/or close until you are returned to the reports view.
-4. Select Home > Edit Queries > Data source settings > Change Source and enter your Dynamics environment details: <code>https://<Dynamics 365 (online) service URL>/api/data/v<8.0 or 8.1 or 8.2> </code>
+4. Select Home > Edit Queries > Data source settings > Change Source and enter your Dynamics environment details: <code>https://|Your Dynamics 365 (online) service URL|/api/data/v|8.0 or 8.1 or 8.2| </code>
 5. Select Apply Changes > Organizational Account > Sign In
 6. After successfully signing in, select Connect
 7. The report should now populate with the data from your Dynamics entities.

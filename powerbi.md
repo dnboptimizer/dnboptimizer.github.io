@@ -11,9 +11,11 @@ Request activation of Power BI in your tenant: [aka.ms/cdspowerbi](https://forms
 ## Power BI Desktop Application
 1. Download the Power UI Desktop application [here](https://powerbi.microsoft.com/en-us/desktop/).
 2. Download the <a href="/assets/dnb_Optimizer_1_1_0_0_powerbi.pbit" download>D&B Template</a>. 
-3. Launch the Power UI Desktop application, import the D&B template and sign in.
-4. Select Home > Edit Queries > Data source settings, select your Dynamics environment and from the list select the Accounts, BusinessProfile and MatchGrade perspective.
-5. The report should now popular with the data from your Dynamics entities.
+3. Launch the Power UI Desktop application, import the D&B template, select cancel and/or close until you are returned to the reports view.
+4. Select Home > Edit Queries > Data source settings > Change Source and enter your Dynamics environment details: https://<Dynamics 365 (online) service URL>/api/data/v<8.0 or 8.1 or 8.2>
+5. Select Apply Changes > Organizational Account > Sign In
+6. After successfully signing in, select Connect
+7. The report should now populate with the data from your Dynamics entities.
 
 ## Publish Report
 1. Select Home > Publish and sign in.

@@ -27,11 +27,11 @@ Request activation of Power BI in your tenant: [aka.ms/cdspowerbi](https://forms
 
 ## Publish Report
 1. Select Home > Publish and sign in.
-2. Select a destination to publish the report too.
+2. Select a destination to publish the report to.
 
 ## Power BI Web
 1. Sign in to [Power BI](https://powerbi.microsoft.com).
-2. Select the workspace you published the report too, select the Reports tab and select the report.
+2. Select the workspace you published the report to, select the Reports tab and select the report.
 3. Mouse over the tiles on the report and you will see a Pin icon on the top right corner. For each tile click that Pin icon to pin to a dashboard.
 4. Select a dashboard from the drop down or create a new dashboard and click Pin.
 

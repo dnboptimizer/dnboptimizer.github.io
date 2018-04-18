@@ -30,9 +30,11 @@ When you try to save the template you will see errors on 17 of the steps in the 
 * Update Match Grade
 * Create Dynamics Match Grade
 * Link Match Grade to Account
+* * This step requires you to also select a Name from the list of Dynamic content options.  In the picklist, scroll to the "List records" section and choose "Account".
 * Move Matched Watermark
 * Refresh Optimizer Status
 * Delete A Record
+** Remember to click "Save flow" at the bottom of the page or "Update flow" at the top of the page!**
 
 **<u>Dynamics for Sales Integration with D&B - Refresh</u>**  
 This flow template will run every hour, search for Business Profile records older than fourteen days and update the records with the latest D&B firmographic data.

@@ -20,9 +20,13 @@ For more information see [Power BI](https://powerbi.microsoft.com/en-us/).
 
 ## Power BI Web
 1. Sign in to [Power BI](https://powerbi.microsoft.com).
-2. Select the workspace you published the report too, select the Reports tab and select the report.
+2. Select the workspace you published the report to, select the Reports tab and select the report.
 3. Click the pin icon on the top right corner to Pin to dashboard, select a dashboard and click Pin.
+4. Select the workspace you published the report to, select the Datasets tab and click the "Schedule Refresh" icon for the dataset associated with the report.
+5. Expand the section titled "Scheduled Refresh" then wait a few seconds until the section becomes active.
+6. Toggle the slider for "Keep your data up to date" to the "on" position, choose a time and frequency for the refresh, and Apply changes.
 
+**Note: A refresh schedule must be provided for the dataset otherwise the associated dashboard will never update.**
 **Note: You must put the report in a dashboard to embed it into a dynamics 365 dashboard.**
 
 ## Share Power BI Workspace

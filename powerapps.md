@@ -29,7 +29,7 @@ When you try to save the template you will see errors on 17 of the steps in the 
 * Link Account to Business Profile
 * Update Match Grade
 * Create Dynamics Match Grade
-* Link Match Grade to Account - *This step requires you to also select a Name from the list of Dynamic content options.  In the picklist, scroll to the "List records" section and choose "Account".*
+* Link Match Grade to Account
 * Move Matched Watermark
 * Refresh Optimizer Status
 * Delete A Record
